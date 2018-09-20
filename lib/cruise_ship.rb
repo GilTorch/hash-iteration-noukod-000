@@ -14,7 +14,5 @@
       winner = name
     end
   end
-
   winner
   end
-end
